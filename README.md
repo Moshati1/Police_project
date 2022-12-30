@@ -2,16 +2,18 @@
 
 
 <h2>Description</h2>
-Project consists of a simple PowerShell script that walks the user through "zeroing out" (wiping) any drives that are connected to the system. The utility allows you to select the target disk and choose the number of passes that are performed. The PowerShell script will configure a diskpart script file based on the user's selections and then launch Diskpart to perform the disk sanitization.
+Police pull over more than 50,000 drivers on a typical day, more than 20 million motorists every year. Yet the most common police interaction — the traffic stop — has not been tracked, at least not in any systematic way. For this project, I used data from the Stanford Open Policing project. The Stanford Open Policing project was created to help researchers and policymakers investigate and improve interactions between police and the public. Their project has plenty of datasets for different cities across the United States. I used the Rhode Island dataset to unravel some questions about what group ages get pulled over more from both genders male and female and what is the leading reason for the stop as well as what gender tend to commit more violations.
 <br />
 
 
-<h2>Language/s and Frameworks Used</h2>
 
+<h2>Languages and Utilities Used</h2>
+
+- <b>Python</b> 
 - <b>Pandas</b>
 - <b>Matplotlib</b>
 - <b>Numpy</b>
-- <b>Seaborn</b>
+- <b>Seaborn</b>  
 
 
 <h2>Environments Used </h2>
@@ -21,16 +23,16 @@ Project consists of a simple PowerShell script that walks the user through "zero
 <h2>Data findings :</h2>
 
 <p align="center">
-Launch the utility: <br/>
+This histogram shows the distribution of age among females that have committed violations. Most females that have committed violations are between the ages of 20-25. <br/>
 <img src= "https://imgur.com/z4LlEp6.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+The following image shows the distribution of age among male drivers that have committed violations. The majority of male drivers are young between the ages of 20-25  <br/>
+<img src="https://i.imgur.com/2iujcUJ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+The barchart shows the violations that were committed by both genders. The most violation that was committed was speeding. Males tend to committ more violations than females across all the different types of violations. <br/>
+<img src="https://i.imgur.com/KqgFWwq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Confirm your selection:  <br/>
