@@ -2,7 +2,14 @@
 
 
 <h2>Description</h2>
-Police pull over more than 50,000 drivers on a typical day, more than 20 million motorists every year. Yet the most common police interaction — the traffic stop — has not been tracked, at least not in any systematic way. For this project, I used data from the Stanford Open Policing project. The Stanford Open Policing project was created to help researchers and policymakers investigate and improve interactions between police and the public. Their project has plenty of datasets for different cities across the United States. I used the Rhode Island dataset to unravel some questions about what group ages get pulled over more from both genders male and female and what is the leading reason for the stop as well as what gender tend to commit more violations.
+Police pull over more than 50,000 drivers on a typical day, more than 20 million motorists every year. Yet the most common police interaction — the traffic stop — has not been tracked, at least not in any systematic way. The Stanford open policing project releases records from millions of traffic stops by law enforcement agencies across the country. So, For this project, I used data from the Stanford Open Policing project. The Stanford Open Policing project was created to help researchers and policymakers investigate and improve interactions between police and the public. Their project has plenty of datasets for different cities across the United States. I used the Rhode Island dataset to uncover some insights and questions. The following questions will be uncovered using exploratory data analysis:
+<br />
+
+What group ages get pulled over more from both genders male and female?
+
+What is the leading reason for the stop?
+
+What gender tend to commit more violations?
 <br />
 
 
