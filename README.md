@@ -7,7 +7,7 @@ Police pull over more than 50,000 drivers on a typical day, more than 20 million
 
 
 
-<h2>Languages and Utilities Used</h2>
+<h2>Language\s and frameworks Used</h2>
 
 - <b>Python</b> 
 - <b>Pandas</b>
